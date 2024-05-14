@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-image: linear-gradient (pink, rgb(255, 0, 225));
 }
 
 .container {
@@ -13,7 +13,7 @@ body {
     position: relative;
     width: 300px;
     height: 200px;
-    border: 2px solid #4CAF50;
+    border: 2px solid #af1ea6;
     padding: 20px;
     box-sizing: border-box;
 }
